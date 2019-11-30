@@ -2,7 +2,7 @@ ZAVRŠNI RAD - QUIZ
 
 Web aplikacija - Kviz znanja.
 
-Ova jednostavna igra napravljena je da testira vaše znanje.
+Ova jednostavna igra napravljena je da vas zabavi i testira vaše znanje.
 
 Pravila igre
 
