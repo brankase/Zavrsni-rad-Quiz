@@ -8,8 +8,8 @@ Pravila igre
 
 Quiz se sastoji od testova iz više oblasti. Instrukcije:
 
-Qiuz započinjete biranjem jedne od ponudjenih oblasti iz kulture,nauke, sporta.Svaka oblast ima 6 pitanja sa ponudjena četiri odgovora,
-od čega je jedan tačan.Od momenta započetog testa počinje da teče vreme predviđeno za rešavanje tog testa.Kada se odgovori na sva pitanja i završi test,dobijaju se rzultati testa.Tačni, netačni odgovori, kao i tačna rešenja za testove.Korisnik ima uvid u prethodno radjene testove sa ostvarenim rezultatima.
+Quiz započinjete biranjem jedne od ponudjenih oblasti iz kulture,nauke, sporta.Svaka oblast ima 6 pitanja sa ponudjena četiri odgovora,
+od čega je jedan tačan.Od momenta započetog testa počinje da teče vreme predviđeno za rešavanje tog testa.Kada se odgovori na sva pitanja i završi test,dobijaju se rezultati testa.Tačni, netačni odgovori, kao i tačna rešenja za testove.Korisnik ima uvid u prethodno radjene testove sa ostvarenim rezultatima.
 
 Kako sam napravila Online-Quiz:
 
@@ -26,7 +26,7 @@ Korisnik :
 - može da se registruje,
 - loguje
 - bira temu quiz-a
-- započinje test i počinje da teče vreme ,koje je odredio administrator za svaku temu.Vreme staje i kada korisnik završi test
+- započinje test i počinje da teče vreme ,koje je odredio administrator za svaku temu.Vreme staje i kada korisnik završi test.
 - korisnik može da vidi vreme koje odbrojava
 - kada se završi test korisnik vidi rezultat broj tačnih i netačnih odgovora
 - ima uvid u tačna rešenja
@@ -52,11 +52,11 @@ Tabele baze podataka:
 
 Web stranice:  login, logout, kategorije, quiz pitanja, rezultati.
 
-U formama za unos uradila sam validacije na klijentskoj ili serverskoj strani .
+U formama za unos uradila sam validacije na klijentskoj, serverskoj strani .
 Aplikacija  radi u dva pregledača (Chrome & Firefox) 
 Popunjena baza podataka koja omogućava pregled svih funkcionalnosti aplikacije.
 Uniformni izgled ekrana aplikacije.
-Na svim ekranima je omogućena opcija za povratak na početni ekran sa korisničkim opcijama 
+Na svim ekranima je omogućena opcija za povratak na početni ekran sa korisničkim opcijama. 
 Na svim ekranima je predviđen link koji vodi na početni ekran za prijavljivanje (opcija: Logout) 
  
 
